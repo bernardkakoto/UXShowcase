@@ -8,37 +8,37 @@ export interface MeditationType {
 export const MEDITATION_DATA: MeditationType[] = [
     {
         id: 1,
-        title: "Mountains",
+        title: "Scalable Architecture",
         image: "trees.webp",
         audio: "trees.mp3",
     },
     {
         id: 2,
-        title: "Rivers",
+        title: "Data Streams",
         image: "river.webp",
         audio: "river.mp3",
     },
     {
         id: 3,
-        title: "Sunset",
+        title: "Sunset Gradients",
         image: "meditate-under-tree.webp",
         audio: "meditate-under-tree.mp3",
     },
     {
         id: 4,
-        title: "Beaches",
+        title: "Front-End",
         image: "beach.webp",
         audio: "beach.mp3",
     },
     {
         id: 5,
-        title: "Starry Night",
+        title: "Neural Networks",
         image: "yosemite-stars.webp",
         audio: "yosemite-stars.mp3",
     },
     {
         id: 6,
-        title: "Waterfall",
+        title: "Sequential Development",
         image: "waterfall.webp",
         audio: "waterfall.mp3",
     },

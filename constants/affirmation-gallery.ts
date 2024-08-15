@@ -2,11 +2,11 @@ import images from "@/constants/affirmation-images";
 
 const AFFIRMATION_GALLERY = [
     {
-        title: "Positivity",
+        title: "Positive User Experience",
         data: [
             {
                 id: 1,
-                text: "Every day brings new opportunities to grow and excel. I am constantly evolving and improving. My positive mindset attracts abundance and success. I am grateful for the journey and the lessons it brings.",
+                text: "In the digital realm, User Experience is the vibrant sunshine that brightens up a user’s journey. Imagine it as the ultimate mood booster, ensuring every click and scroll feels like a burst of joy. When positivity infuses design, it turns mundane tasks into delightful experiences.",
                 image: images.californiaBackyardOne,
             },
             {
@@ -27,11 +27,11 @@ const AFFIRMATION_GALLERY = [
         ],
     },
     {
-        title: "Reduce Anxiety",
+        title: "Stress Testing",
         data: [
             {
                 id: 5,
-                text: "I am in control of my thoughts, and I choose peace over worry. Each breath I take calms my mind and soothes my soul. I release the need to stress over what I cannot control. I am strong, capable, and at ease in all situations.",
+                text: "In the tech wonderland, Stress Testing is like a calming yoga session for your software. Imagine it as a soothing ritual, where the code stretches and flexes to handle all the pressures of real-world use, ensuring it remains serene and unflappable under stress.",
                 image: images.englishCountrysideOne,
             },
             {
@@ -52,11 +52,11 @@ const AFFIRMATION_GALLERY = [
         ],
     },
     {
-        title: "Success",
+        title: "Achievement Metrics",
         data: [
             {
                 id: 9,
-                text: "I am destined for greatness, and every step I take leads me closer to success. My dedication and hard work are the building blocks of my achievements. I see opportunities where others see obstacles. Success is my journey, and I embrace it with passion and perseverance.",
+                text: "In the realm of technology, Achievement Metrics are like the confetti of the digital world. They celebrate each milestone, turning the journey of success into a festive parade of progress. Imagine them as the cheerful cheerleaders, keeping track of every accomplishment along the way.",
                 image: images.mountainMeditateOne,
             },
             {
@@ -152,26 +152,26 @@ const AFFIRMATION_GALLERY = [
         ],
     },
     {
-        title: "Limiting Beliefs",
+        title: "Limiting Beliefs - Constraints",
         data: [
             {
                 id: 25,
-                text: "I release all limiting beliefs and embrace my limitless potential. My mind is free from doubts, and I trust in my ability to achieve greatness. Each day, I replace negative thoughts with empowering beliefs. I am capable, worthy, and destined for success.",
+                text: "In the whimsical world of software development, Constraints are like those pesky limiting beliefs that try to hold us back. They’re the imaginary walls that say, “You can’t do that!” But with a touch of creativity, we can turn those walls into stepping stones.",
                 image: images.tuscannyOne,
             },
             {
                 id: 26,
-                text: "I am no longer held back by past limitations; I create my own reality. My beliefs shape my future, and I choose to believe in my strength and potential. I break through barriers and achieve what I once thought impossible. My life is a reflection of my powerful, positive mindset.",
+                text: "Think of constraints as the quirky rules of a game, challenging you to think outside the box. Just like overcoming limiting beliefs in life, finding clever solutions to these tech hurdles can lead to surprising breakthroughs. Embrace the challenge, and you might just discover a whole new way to achieve your goals.",
                 image: images.tuscannyTwo,
             },
             {
                 id: 27,
-                text: "I am the master of my thoughts, and I choose to eliminate all limiting beliefs. I see challenges as opportunities for growth and success. My potential is boundless, and I am constantly evolving into the best version of myself. I believe in my power to create a life of abundance and joy.",
+                text: "So next time you face a tech constraint, remember it’s not a roadblock but a whimsical chance to push the boundaries. With a sprinkle of imagination and a dash of persistence, those limiting beliefs will be nothing more than stepping stones on your path to success.",
                 image: images.tuscannyThree,
             },
             {
                 id: 28,
-                text: "I replace limiting beliefs with thoughts of possibility and greatness. My mind is a fertile ground for positive, empowering beliefs. I attract success and happiness because I believe I deserve them. Every step I take is guided by confidence and self-assurance, leading me to my highest potential.",
+                text: "In the coding cosmos, constraints might feel like trying to solve a puzzle with missing pieces. But each limitation invites a playful dance with innovation. By tweaking and adapting, you transform barriers into opportunities, much like turning doubts into triumphs.",
                 image: images.tuscannyFour,
             },
         ],

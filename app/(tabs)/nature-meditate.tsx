@@ -11,13 +11,13 @@ import { router } from 'expo-router'
 const NatureMeditate = () => {
   return (
     <View className="flex-1">
-      <AppGradient colors={["#161b2d", "#0a4d4a", "#766e67"]}>
+      <AppGradient colors={["#0e2439", "#287aa9", "#a3d5ff"]}>
         <View className='mb-6'>
           <Text className='text-gray-300 mb-3 font-bold text-4xl text-left'>
-            In The Indigo Fields
+            Circuit Circus
           </Text>
-          <Text className='text-indigo-300 mb-3 font-meduim text-xl text-left'>
-            The Start of A journey.
+          <Text className='text-gray-100 mb-3 font-meduim text-xl text-left'>
+            Cultivating Curiosity, One Chip at a Time!
           </Text>
         </View>
         <View>

@@ -7,9 +7,9 @@ import GuidedAffirmationsGallery from '@/components/GuidedAffirmationsGallery'
 const Affirmations = () => {
   return (
     <View className='flex-1'>
-        <AppGradient colors={["#2e1f5a", "#54426b", "#a790af"]}>
+        <AppGradient colors={["#004e92", "#0099e6", "#b3e0ff"]}>
             <ScrollView showsVerticalScrollIndicator={false}>
-                <Text className='text-zinc-100 text-3xl font-bold'>
+                <Text className='text-gray-300 text-3xl font-bold'>
                     More on This Page
                 </Text>
                 <View>

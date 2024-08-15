@@ -22,14 +22,14 @@ const App = () => {
                 <SafeAreaView className='flex-1 px-1 justify-between'>
                   <View>
                     <Text className='text-center text-white font-bold text-4xl'>
-                      UIShowcase
+                      UX Showcase
                     </Text>
                     <Text className='text-center text-white text-regular text-2xl mt-3'>
-                      UI Shows the Way
+                    Unlock Your Potential, One Click at a Time.
                     </Text>
                   </View>
                   <View>
-                    <CustomButton onPress={() => router.push("/nature-meditate")} title='Get Started' />
+                    <CustomButton onPress={() => router.push("/nature-meditate")} title='One Click at a Time' />
                   </View>
                   <StatusBar style='light' />
                 </SafeAreaView>

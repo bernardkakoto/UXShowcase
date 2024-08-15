@@ -2,7 +2,7 @@ import { View, Text } from 'react-native'
 import React from 'react'
 import Colors from '@/constants/Colors'
 import { Tabs } from 'expo-router'
-import { MaterialCommunityIcons, FontAwesome } from '@expo/vector-icons';
+import { Ionicons, MaterialCommunityIcons } from '@expo/vector-icons';
 
 const TabsLayout = () => {
   return (
@@ -14,10 +14,10 @@ const TabsLayout = () => {
         <Tabs.Screen 
             name='nature-meditate' 
             options={{ 
-                tabBarLabel: "Mediatate",
+                tabBarLabel: "Hardware",
                 tabBarIcon: ({ color }) => (
-                    <MaterialCommunityIcons 
-                    name="flower-tulip" 
+                    <Ionicons 
+                    name="hardware-chip" 
                     size={24} 
                     color={color} 
                     />
@@ -28,10 +28,10 @@ const TabsLayout = () => {
         <Tabs.Screen 
             name='affirmations' 
             options={{ 
-                tabBarLabel: "Affirmations",
+                tabBarLabel: "Software",
                 tabBarIcon: ({ color }) => (
-                    <FontAwesome 
-                    name="envelope-open-o" 
+                    <MaterialCommunityIcons 
+                    name="application-braces" 
                     size={24} 
                     color="color" 
                     />
