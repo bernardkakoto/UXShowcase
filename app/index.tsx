@@ -29,7 +29,10 @@ const App = () => {
                     </Text>
                   </View>
                   <View>
-                    <CustomButton onPress={() => router.push("/nature-meditate")} title='One Click at a Time' />
+                    <CustomButton 
+                      onPress={() => router.push("/nature-meditate")} title='One Click at a Time' 
+                    
+                    />
                   </View>
                   <StatusBar style='light' />
                 </SafeAreaView>
